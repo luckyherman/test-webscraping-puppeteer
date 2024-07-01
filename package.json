@@ -1,0 +1,22 @@
+{
+  "name": "test-scraping-ando",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "puppeteer": "^22.11.2",
+    "xlsx": "^0.18.5"
+  },
+  "description": ""
+}
